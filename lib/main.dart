@@ -2,7 +2,11 @@ import 'package:flutter/material.dart';
 import 'home.dart';
 import 'rep_disaster.dart';
 
-void main() {
+
+void main() async{
+
+
+
   runApp(const MyApp());
 }
 
